@@ -1,0 +1,18 @@
+Taruh file lagu (mp3) di folder ini dengan nama persis seperti ini:
+
+  22.mp3
+  shake-it-off.mp3
+  paper-rings.mp3
+  cruel-summer.mp3
+  love-story.mp3
+  lover.mp3
+  enchanted.mp3
+  today-was-a-fairytale.mp3
+
+Pakai file lagu milikmu sendiri (misalnya yang kamu beli).
+Lagu yang filenya tidak ada otomatis disembunyikan dari daftar.
+Kalau tidak ada satu pun file, yang diputar adalah musik kotak
+"Selamat Ulang Tahun" bawaan.
+
+Mau ganti lagu atau tambah lagu? Buka script.js, cari tulisan
+"DAFTAR LAGU", lalu ubah judul dan nama file-nya.

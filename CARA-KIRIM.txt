@@ -1,0 +1,8 @@
+Cara mengirim ke Chelsea:
+
+1. Isi folder "foto" dan folder "musik" dulu (lihat BACA-SAYA.txt di masing-masing folder).
+2. Buka index.html di browser untuk mencoba. Kode rahasianya 261006.
+3. Supaya bisa dikirim lewat link, unggah seluruh folder kejutan-kuning
+   ke layanan hosting statis gratis, misalnya Netlify Drop (app.netlify.com/drop)
+   atau GitHub Pages. Seret foldernya, lalu kirim link yang muncul.
+4. Buka linknya sekali di HP sendiri sebelum dikirim.

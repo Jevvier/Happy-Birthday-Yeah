@@ -1,0 +1,5 @@
+Taruh foto di folder ini dengan nama foto-1.jpg sampai foto-12.jpg.
+Mau nama file atau tulisan di bawah foto lain? Ubah daftar PHOTOS
+di script.js (cari tulisan "DAFTAR FOTO").
+Kode rahasia ada di script.js, cari "var PASS".
+Nama ada di script.js, cari "var NAME".
